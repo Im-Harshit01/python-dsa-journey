@@ -9,18 +9,22 @@ if abbrviation not in ["+", "-", "*", "/", "**"]:
 if abbrviation == "+":
     result = num_1 + num_2
     print(f"The result of {num_1} + {num_2} is: {result:.3f}")
+
 elif abbrviation == "-":
     result = num_1 - num_2
     print(f"The result of {num_1} - {num_2} is: {result:.3f}")
+
 elif abbrviation == "*":
     result = num_1 * num_2
     print(f"The result of {num_1} * {num_2} is: {result:.3f}")
+
 elif abbrviation == "/":
     if num_2 == 0:
         print("Error: Cannot divide by zero")
     else:
         result = num_1 / num_2
         print(f"The result of {num_1} / {num_2} is: {result:.3f}")
+        
 elif abbrviation == "**":
     result = num_1 ** num_2
     print(f"The result of {num_1} ** {num_2} is: {result:.3f}")
