@@ -11,8 +11,7 @@ else:
 
 
 
-# This is a more advanced version of the code that checks the age of a person
-# to see if they can go for a ride on a roller coaster, and also checks if they have any heart problems.
+# This is a more advanced version of the code that checks the age of a person to see if they can go for a ride on a roller coaster, and also checks if they have any heart problems.
 
 age = input("What is your age? ")
 if not age.isdigit():
