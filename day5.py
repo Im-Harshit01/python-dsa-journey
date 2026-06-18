@@ -1,3 +1,5 @@
+#This is a simple countdown timer that takes input from the user for the duration in seconds and counts down to zero, displaying the time in hours, minutes, and seconds format.
+
 import time
 
 duration = int(input("Enter the time : "))
@@ -9,5 +11,5 @@ for x in range(duration, -1, -1):
     print(f"\r{hours:02}:{minutes:02}:{seconds:02}", end="")
     if x > 0:
         time.sleep(1)
-    
-print("Time's over!")
+
+print("\nTime's over!")
