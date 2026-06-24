@@ -1,10 +1,11 @@
 # Python Journey
 
-My daily Python learning journey.
+My daily Python and DSA learning journey.
 
 ## Goals
 
 - Learn Python fundamentals
+- Learn Data Structures & Algorithms
 - Build projects
 - Improve problem-solving skills
 
@@ -22,6 +23,6 @@ My daily Python learning journey.
 - Day 3: Conditions and Device Compatibility Checker
 - Day 4: Number Guessing Game 
 - Day 5: Time Countdown
-- Day6: Rock Paper Scissors Game
+- Day6: Rock Paper Scissors Game 
 - Day7: Food ordering system
-- Day8: To-Do List 
+- Day8: To-Do List
